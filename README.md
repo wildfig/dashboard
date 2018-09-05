@@ -17,3 +17,6 @@ This is a repository that mirrors the private current dashboards to allow others
       * The labels allow the developers to address the issues appropriately. If issue is a bug label it as a bug. 
     
   
+  4) Assign the issue a priority
+      * This allows us to address the bugs in order of importance not chronologically. 
+      * If there is no priority it will be assumed to have the lowest priority 
